@@ -1,0 +1,8 @@
+1. first install react inside client side.
+2. install tailwind css.
+3. install react-router-dom and create a folder router and inside it make a Router.js file.
+    --> hm router ko app.jsx me v bana skte the but hm isse alag file me banayenge jiss file ka 
+        naam hoga router.js ar iss file me hm router ka sara code likh denge arr fir iss file ko 
+        import kr lenge.
+
+4. install react slick        
